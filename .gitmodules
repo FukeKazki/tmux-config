@@ -7,3 +7,6 @@
 [submodule "plugins/tmux-open"]
 	path = plugins/tmux-open
 	url = git@github.com:tmux-plugins/tmux-open.git
+[submodule "plugins/tmux-sensible"]
+	path = plugins/tmux-sensible
+	url = git@github.com:tmux-plugins/tmux-sensible.git
