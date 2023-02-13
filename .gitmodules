@@ -1,0 +1,15 @@
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "plugins/tmux-copycat"]
+	path = plugins/tmux-copycat
+	url = git@github.com:tmux-plugins/tmux-copycat.git
+[submodule "plugins/tmux-open"]
+	path = plugins/tmux-open
+	url = git@github.com:tmux-plugins/tmux-open.git
+[submodule "plugins/tmux-sensible"]
+	path = plugins/tmux-sensible
+	url = git@github.com:tmux-plugins/tmux-sensible.git
+[submodule "plugins/tmux-tabicon"]
+	path = plugins/tmux-tabicon
+	url = git@github.com:mocaffy/tmux-tabicon.git
