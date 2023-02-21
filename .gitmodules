@@ -13,3 +13,6 @@
 [submodule "plugins/tmux-tabicon"]
 	path = plugins/tmux-tabicon
 	url = git@github.com:mocaffy/tmux-tabicon.git
+[submodule "plugins/tmux-music"]
+	path = plugins/tmux-music
+	url = git@github.com:FukeKazki/tmux-music.git
