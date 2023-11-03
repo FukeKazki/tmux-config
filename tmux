@@ -1,1 +1,0 @@
-/Users/fuke/.config/tmux
