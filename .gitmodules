@@ -10,3 +10,6 @@
 [submodule "plugins/tmux-tabicon"]
 	path = plugins/tmux-tabicon
 	url = git@github.com:mocaffy/tmux-tabicon.git
+[submodule "plugins/tmux-ccusage-status"]
+	path = plugins/tmux-ccusage-status
+	url = git@github.com:FukeKazki/tmux-ccusage-status.git
