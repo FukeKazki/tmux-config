@@ -13,3 +13,6 @@
 [submodule "plugins/tmux-ccusage-status"]
 	path = plugins/tmux-ccusage-status
 	url = git@github.com:FukeKazki/tmux-ccusage-status.git
+[submodule "plugins/tmux-music"]
+	path = plugins/tmux-music
+	url = git@github.com:FukeKazki/tmux-music.git
